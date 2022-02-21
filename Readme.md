@@ -2,7 +2,7 @@
 
 [Vídeo no Youtube](https://youtu.be/y4ltLH9iK8E)
 
-## **1.Landing Pages**
+## **1.Landing Pages** 👩🏼‍💻 
 https://dribbble.com/shots/14953088-spark-marketing-page <br>
 https://dribbble.com/shots/15798662-Product-page-hero-section <br>
 https://dribbble.com/shots/16256966-digital-education-website-design <br>
@@ -11,8 +11,9 @@ https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow <br>
 https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design <br>
 https://dribbble.com/shots/16186293-website-landing-page <br>
 https://dribbble.com/shots/16356525-Bangtut-Hero-Section <br>
+perfil do instagram com mais inúmeras landing pages para se inspirar: https://www.instagram.com/arshakirpk/ <br>
 
-## **2.Páginas de Login e Cadastro**
+## **2.Páginas de Login e Cadastro** 🔐
 https://dribbble.com/shots/15252242-Sign-Up-Page <br>
 https://dribbble.com/shots/15820957-Login-Screen-from-Webpixels-Templates <br>
 https://dribbble.com/shots/14019613-Sign-up-form <br>
@@ -23,7 +24,7 @@ https://dribbble.com/shots/14147292-Sign-Up-Form <br>
 https://dribbble.com/shots/13993146-Ghost-Sign-In <br>
 https://dribbble.com/shots/16383982-User-account-page-illustrations <br>
 
-## **3.Formulário**
+## **3.Formulário** 🧾
 https://dribbble.com/shots/14414277-Subscrify-modals <br>
 https://dribbble.com/shots/9145103-Request-a-demo-page <br>
 https://dribbble.com/shots/16365420-Sign-up-with-illustration <br>
@@ -34,7 +35,7 @@ https://dribbble.com/shots/11141590-Registration-form <br>
 https://dribbble.com/shots/12882202-Freelance-Form-Register-DropDown <br>
 https://dribbble.com/shots/3553449-Travel-Form <br>
 
-## **4.Catálogo de produtos**
+## **4.Catálogo de produtos** 🛍️
 https://dribbble.com/shots/15711636-Catalog <br>
 https://dribbble.com/shots/16039018-E-commerce-Furniture-Landing-Page <br>
 https://dribbble.com/shots/13893056-Online-Fashion-Store <br>
@@ -48,7 +49,7 @@ https://dribbble.com/shots/10066562-Website-for-sweets-shop <br>
 https://dribbble.com/shots/15483957-Catalog-Free-Download <br>
 https://dribbble.com/shots/16233335-Product-card <br>
 
-## **5.Página de notícias ou blog**
+## **5.Página de notícias ou blog** 📜
 https://dribbble.com/shots/15379976-News-Website <br>
 https://dribbble.com/shots/14435664--Exploration-Article-Page <br>
 https://dribbble.com/shots/16385499-News-Site <br>
@@ -63,7 +64,7 @@ https://dribbble.com/shots/14377374--Exploration-Sport-News-Hero-Section <br>
 https://dribbble.com/shots/15229042-AGENCY <br>
 https://dribbble.com/shots/16279660-Website-design-for-Izabela-Kielczyk <br>
 
-## **6.Desenhar algum elemento específico**
+## **6.Desenhar algum elemento específico** 🖋️
 https://dribbble.com/shots/16289478-3D-Glass-Card-Illustration <br>
 https://dribbble.com/shots/13978524-Button <br>
 https://dribbble.com/shots/7268454-Rubber-Slider <br>
@@ -83,7 +84,7 @@ https://dribbble.com/shots/4364095-Rainbow-is-here <br>
 https://dribbble.com/shots/13985244-Colorful-Buttons <br>
 https://dribbble.com/shots/14725005-3D-Switch <br>
 
-## **7.Dashboard**
+## **7.Dashboard** 📊
 https://dribbble.com/shots/16364085-Wallet-Dashboard-Design <br>
 https://dribbble.com/shots/15378686-Task-Management-Dashboard-Design <br>
 https://dribbble.com/shots/15543862-Finance-Dashboard-Dark-theme <br>
@@ -123,7 +124,7 @@ https://dribbble.com/shots/4517985-Todo-web-app-tidily-io <br>
 https://dribbble.com/shots/3884941-Todooo-Tasks <br>
 https://dribbble.com/shots/14928544-Goal-based-project-management <br>
 
-## **10. Seu portfólio**
+## **10. Seu portfólio** 
 https://dribbble.com/shots/15790280-personal-portfolio-Website-UI <br>
 https://dribbble.com/shots/16077352-Personal-Portfolio-Site-Bruno-Erdison <br>
 https://dribbble.com/shots/15534060-Freelancer-Personal-Portfolio-Website-UI-Design <br>
