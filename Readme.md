@@ -102,7 +102,7 @@ https://dribbble.com/shots/15804820-Finance-Dashboard-Dark-theme <br>
 https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard <br>
 https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard <br>
 
-## **8.Email marketing**
+## **8.Email marketing** 📧
 https://dribbble.com/shots/13801246-Email-Design-Mailchimp <br>
 https://dribbble.com/shots/8810403-Referral-Program <br>
 https://dribbble.com/shots/6153546-anyExcuse-Newsletter-Template <br>
@@ -111,7 +111,7 @@ https://dribbble.com/shots/14238815-Email-Receipt-Design <br>
 https://dribbble.com/shots/15184358-Sendlane-Visual-Identity <br>
 https://dribbble.com/shots/7104528-Mens-Watch-Brand-Email-Design <br>
 
-## **9.To do list/calendário/organização pessoal/notion**
+## **9.To do list/calendário/organização pessoal/notion** 📝
 https://dribbble.com/shots/5726145-Todo-Web-App <br>
 https://dribbble.com/shots/7882888-Daily-UI-042-To-Do-List <br>
 https://dribbble.com/shots/3383167-To-Do-List <br>
@@ -124,7 +124,7 @@ https://dribbble.com/shots/4517985-Todo-web-app-tidily-io <br>
 https://dribbble.com/shots/3884941-Todooo-Tasks <br>
 https://dribbble.com/shots/14928544-Goal-based-project-management <br>
 
-## **10. Seu portfólio** 
+## **10. Seu portfólio** 💼
 https://dribbble.com/shots/15790280-personal-portfolio-Website-UI <br>
 https://dribbble.com/shots/16077352-Personal-Portfolio-Site-Bruno-Erdison <br>
 https://dribbble.com/shots/15534060-Freelancer-Personal-Portfolio-Website-UI-Design <br>
