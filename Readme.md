@@ -8,7 +8,7 @@ https://dribbble.com/shots/16256966-digital-education-website-design 🤍 <br>
 https://dribbble.com/shots/16151477-shopify-website-landing-page-design 🤍 <br> 
 https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow <br>
 https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design <br>
-https://dribbble.com/shots/16186293-website-landing-page 🤍 <br> �
+https://dribbble.com/shots/16186293-website-landing-page 🤍 <br> 
 https://dribbble.com/shots/16356525-Bangtut-Hero-Section <br>
 perfil do instagram com mais inúmeras landing pages para se inspirar: https://www.instagram.com/arshakirpk/ <br>
 
