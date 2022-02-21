@@ -1,53 +1,52 @@
 # 10 projetos de HTML e CSS para adicionar no seu portfólio
-
-[Vídeo no Youtube](https://youtu.be/y4ltLH9iK8E)
+### Meta para 2022: realizar ao menos dois projetos de cada categoria abaixo: 
 
 ## **1.Landing Pages** 👩🏼‍💻 
 https://dribbble.com/shots/14953088-spark-marketing-page <br>
 https://dribbble.com/shots/15798662-Product-page-hero-section <br>
-https://dribbble.com/shots/16256966-digital-education-website-design <br>
-https://dribbble.com/shots/16151477-shopify-website-landing-page-design <br>
+https://dribbble.com/shots/16256966-digital-education-website-design <br> 🤍
+https://dribbble.com/shots/16151477-shopify-website-landing-page-design <br> 🤍
 https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow <br>
 https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design <br>
-https://dribbble.com/shots/16186293-website-landing-page <br>
+https://dribbble.com/shots/16186293-website-landing-page <br> 🤍
 https://dribbble.com/shots/16356525-Bangtut-Hero-Section <br>
 perfil do instagram com mais inúmeras landing pages para se inspirar: https://www.instagram.com/arshakirpk/ <br>
 
 ## **2.Páginas de Login e Cadastro** 🔐
-https://dribbble.com/shots/15252242-Sign-Up-Page <br>
+https://dribbble.com/shots/15252242-Sign-Up-Page <br> 🤍 
 https://dribbble.com/shots/15820957-Login-Screen-from-Webpixels-Templates <br>
 https://dribbble.com/shots/14019613-Sign-up-form <br>
-https://dribbble.com/shots/14621147-Romeo-Illustrations <br>
-https://dribbble.com/shots/14960376-Sign-Up <br>
+https://dribbble.com/shots/14621147-Romeo-Illustrations <br> 🤍
+https://dribbble.com/shots/14960376-Sign-Up <br> 🤍
 https://dribbble.com/shots/15846049-Simple-Sign-Up-Page <br>
-https://dribbble.com/shots/14147292-Sign-Up-Form <br>
+https://dribbble.com/shots/14147292-Sign-Up-Form <br> 🤍
 https://dribbble.com/shots/13993146-Ghost-Sign-In <br>
 https://dribbble.com/shots/16383982-User-account-page-illustrations <br>
 
 ## **3.Formulário** 🧾
 https://dribbble.com/shots/14414277-Subscrify-modals <br>
 https://dribbble.com/shots/9145103-Request-a-demo-page <br>
-https://dribbble.com/shots/16365420-Sign-up-with-illustration <br>
+https://dribbble.com/shots/16365420-Sign-up-with-illustration <br> 🤍
 https://dribbble.com/shots/11785205-Employees-Information-Sytem-Part-3 <br>
 https://dribbble.com/shots/7862230-Checkout-UI-Concept <br>
 https://dribbble.com/shots/16485699-Edit-Task-Light-Dark <br>
-https://dribbble.com/shots/11141590-Registration-form <br>
+https://dribbble.com/shots/11141590-Registration-form <br> 🤍
 https://dribbble.com/shots/12882202-Freelance-Form-Register-DropDown <br>
 https://dribbble.com/shots/3553449-Travel-Form <br>
 
 ## **4.Catálogo de produtos** 🛍️
-https://dribbble.com/shots/15711636-Catalog <br>
-https://dribbble.com/shots/16039018-E-commerce-Furniture-Landing-Page <br>
+https://dribbble.com/shots/15711636-Catalog <br> 🤍
+https://dribbble.com/shots/16039018-E-commerce-Furniture-Landing-Page <br> 🤍
 https://dribbble.com/shots/13893056-Online-Fashion-Store <br>
 https://dribbble.com/shots/6626669-e-commerce-personalize <br>
 https://dribbble.com/shots/11243718-LH-1064-05-Swimsuits-Catalog <br>
 https://dribbble.com/shots/9004128-Catalog-for-ATF-Cosmetics-store <br>
 https://dribbble.com/shots/5604689-Lindt-Product-Catalog <br>
 https://dribbble.com/shots/5879104-Ulmart-Top-10-Russian-Online-Retailer <br>
-https://dribbble.com/shots/5535038-Flower-Shop <br>
+https://dribbble.com/shots/5535038-Flower-Shop <br> 🤍
 https://dribbble.com/shots/10066562-Website-for-sweets-shop <br>
-https://dribbble.com/shots/15483957-Catalog-Free-Download <br>
-https://dribbble.com/shots/16233335-Product-card <br>
+https://dribbble.com/shots/15483957-Catalog-Free-Download <br> 🤍
+https://dribbble.com/shots/16233335-Product-card <br> 
 
 ## **5.Página de notícias ou blog** 📜
 https://dribbble.com/shots/15379976-News-Website <br>
@@ -137,3 +136,5 @@ https://dribbble.com/shots/14135859-JanLosert-com-V4-Live <br>
 #### legenda: 
 - ✔️ done/feito
 - 🤍 amei e pretendo utilizar para algum projeto
+
+Lembrando que não criei esta lista! Apenas modifiquei e acrescentei algumas coisas! A lista original pertence à [Rafaela Ballerini](https://github.com/rafaballerini/10ProjetosHTMLeCSS)
