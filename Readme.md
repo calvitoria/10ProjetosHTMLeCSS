@@ -10,6 +10,7 @@ https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow <br>
 https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design <br>
 https://dribbble.com/shots/16186293-website-landing-page 🤍 <br> 
 https://dribbble.com/shots/17576822-ClearMix-Landing-page 🤍 <br>
+https://dribbble.com/shots/16407385-The-Smilewallet-landing-page-design 🤍 <br> 
 https://github.com/calvitoria/carnacode/tree/main/landing-page%20penpal.io  ✔️ done _landing page feita por mim_ <br> 
 perfil do instagram com mais inúmeras landing pages para se inspirar: https://www.instagram.com/arshakirpk/ <br>
 
