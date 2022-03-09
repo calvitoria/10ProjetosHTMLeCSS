@@ -142,3 +142,8 @@ https://dribbble.com/shots/14135859-JanLosert-com-V4-Live <br>
 - 🤍 amei e pretendo utilizar para algum projeto
 
 Lembrando que não criei esta lista! Apenas modifiquei e acrescentei algumas coisas! A lista original pertence à [Rafaela Ballerini](https://github.com/rafaballerini/10ProjetosHTMLeCSS)
+
+<div>
+   <img align="center" alt="you are at 10 ideas repository" src="https://user-images.githubusercontent.com/95686401/157352946-fd404760-2cf8-411f-96f1-5fa11933d686.png" />
+</div>
+  
